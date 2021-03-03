@@ -52,16 +52,6 @@ You will be employer-ready if you are able to:
 
 You will be employer-competitive if you are able to solve the following algorithms and successfully complete the assessments.
 
-### Algorithms
-
-* [01: Is Palindrome](./03-Algorithms/01-is-palindrome)
-
-* [02: Factorial](./03-Algorithms/02-factorial)
-
-  * [📹 Let's Code Factorial!](https://2u-20.wistia.com/medias/gnyfobes5c)
-
-* [03: Title Case](./03-Algorithms/03-title-case)
-
 ### Assessments
 
 Assess your knowledge by answering technical interview questions and solving coding challenges.
@@ -71,26 +61,6 @@ Assess your knowledge by answering technical interview questions and solving cod
 ## Homework
 
 For your homework, you'll build a weather dashboard using various endpoints from the OpenWeather API.
-
-## Career Connection
-
-Career Services material for this unit is located in the [Career Connection folder](./04-Career-Connection/README.md). For more information about Career Services, including coding milestones, demo days, technical toolkits, workshops, and additional resources, visit the [Career Services website](https://mycareerspot.org/).
-
-## Heads-Up
-
-Get ready for your first group project! In the next unit, you and your teammates will use all of your new skills to build an app of your choosing.
-
-## Resources
-
-Here are some additional resources to help solidify the topics covered in this unit:
-
-### Git Guide
-
-Refer to the Git Guide to review the git concept for this unit. Watch the `📹 Git Guide` video for an additional walkthrough of the git concept.
-
-  * 📖 [Git Guide: Project Collaboration](./01-Activities/26-Evr_Git-Collaboration)
-
-  * 📹 [Git Guide Video: Project Collaboration](https://2u-20.wistia.com/medias/60x5om18ac)
 
 ### General
 

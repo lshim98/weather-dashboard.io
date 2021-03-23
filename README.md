@@ -8,13 +8,12 @@ Use the OpenWeather API to retrieve weather data for cities. The documentation i
 
 ## User Story
 
-```
-
 AS a student, I WANT to see the weather outlook for multiple cities, SO THAT I can plan a trip with friends eventually.
 
-```
+## Installation
+https://lshim98.github.io/weather-dashboard.io/
 
-
+## Screenshot
 ![Captured](https://user-images.githubusercontent.com/76062539/109750432-70ad6280-7baa-11eb-9ece-ba58e83d8c40.JPG)
 
 
